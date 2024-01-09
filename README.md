@@ -12,7 +12,8 @@ Personal read books and watched movies...
 1. 《西游记》 吴承恩 202309 :+1::+1:
 1. 《图解密码技术》结城浩 202301 :+1:
 1. 《初刻拍案惊奇》 龙应台 202310 :+1:
-1. 《水浒传》 施耐庵 202312 Reading
+1. 《水浒传 70回本》 施耐庵 202312 :+1::+1:
+1. 《南城旧事》 林海音 202401 Reading
 
 ## Movies
 
@@ -33,9 +34,9 @@ Personal read books and watched movies...
 ## TODO
 
 1. 《我与地坛》 史铁生
-1. 《南城旧事》 林海音
 1. 《四世同堂》 老舍
 1. 《遥远的救世主》 豆豆
 1. 《起朱楼宴宾客》 大卫翁
 1. 《HTTP 权威指南》 David Gourley...
 1. 《数据密集型应用系统设计》 Martin Kelppmann
+1. 《The science of scaling》 https://www.benchmarkit.ai/saas-metrics-palooza-23-1/the-science-of-scaling.-when-to-scale%3F-how-fast-to-scale%3F
