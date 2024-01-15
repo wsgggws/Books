@@ -34,9 +34,19 @@ Personal read books and watched movies...
 
 ## TODO
 
+1. 《北京法源寺》 李敖
 1. 《我与地坛》 史铁生
+1. 《牛天赐传》 老舍
+1. 《茶馆》 老舍
+1. 《啼笑因缘》 张恨水
+1. 《金粉世家》 张恨水
+1. 《钟鼓楼》 刘心武
+1. 《评红楼梦》 刘心武
+1. 《周恩来传》 迪克·威尔逊
 1. 《遥远的救世主》 豆豆
 1. 《起朱楼宴宾客》 大卫翁
+1. 《JavaScript 权威指南》David Flanagan
+1. 《JavaScript高级程序设计》Nicholas C.Zakas
 1. 《HTTP 权威指南》 David Gourley...
 1. 《数据密集型应用系统设计》 Martin Kelppmann
 1. 《The science of scaling》 https://www.benchmarkit.ai/saas-metrics-palooza-23-1/the-science-of-scaling.-when-to-scale%3F-how-fast-to-scale%3F
