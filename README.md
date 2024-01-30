@@ -46,6 +46,9 @@ Personal read books and watched movies...
 1. 《评红楼梦》 刘心武
 1. 《周恩来传》 迪克·威尔逊
 1. 《遥远的救世主》 豆豆
+1. 《我的前半生》 溥仪
+1. 《我和溥仪》 新凤霞
+1. 《紫禁城的黄昏》 庄士敦
 1. 《起朱楼宴宾客》 大卫翁
 1. 《JavaScript 权威指南》David Flanagan
 1. 《JavaScript高级程序设计》Nicholas C.Zakas
