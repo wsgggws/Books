@@ -26,7 +26,9 @@ Personal read books and watched movies...
 1. [《我与地坛》](./books/我与地坛.md) 史铁生 202403 :+1:
 1. [《北京法源寺》](./books/北京法源寺.md) 李敖 202403 :+1::+1:
 1. [《牛天赐传》](./books/牛天赐传.md) 老舍 202403 :+1::+1:
-1. 《紫禁城的黄昏》 庄士敦 202403 Reading
+1. [《紫禁城的黄昏》](./books/紫禁城的黄昏.md) 庄士敦 202403 :+1::+1:
+1. [《Unix&Linux大学教程》](./books/Unix-Linux大学教程.md) 哈恩 202403 :+1:
+1. 《中国近代史》 蒋廷黻 Reading
 1. 《操作系统导论》王海鹏（译） 202401 Reading
 
 ## Movies
@@ -47,7 +49,6 @@ Personal read books and watched movies...
 
 ## TODO
 
-1. 《茶馆》 老舍
 1. 《啼笑因缘》 张恨水
 1. 《金粉世家》 张恨水
 1. 《钟鼓楼》 刘心武
@@ -56,9 +57,11 @@ Personal read books and watched movies...
 1. 《遥远的救世主》 豆豆
 1. 《我的前半生》 溥仪
 1. 《我和溥仪》 新凤霞
+1. 《窄门》 安德烈·纪德
 1. 《起朱楼宴宾客》 大卫翁
+1. 《茶馆》 老舍
 1. 《JavaScript 权威指南》David Flanagan
 1. 《JavaScript高级程序设计》Nicholas C.Zakas
 1. 《HTTP 权威指南》 David Gourley...
 1. 《数据密集型应用系统设计》 Martin Kelppmann
-1. 《The science of scaling》 https://www.benchmarkit.ai/saas-metrics-palooza-23-1/the-science-of-scaling.-when-to-scale%3F-how-fast-to-scale%3F
+1. 《The science of scaling》
