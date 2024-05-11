@@ -1,5 +1,6 @@
 # Profound
 
+1. 学而不思则罔，思而不学则殆。
 1. 我不必同。
 1. 思考做事的方式、大胆地问出好的问题，并且小心地去求证。
 1. 计算机里没有魔法，计算机的本质是状态机，是递归。
@@ -12,5 +13,6 @@
 1. 1 和 99 之间的差别再大，也不如 0 和 1 之间的差别大。
 1. 不要再 “学” 英语，你就该 “用” 英语！
 1. (English)Unix is easy to use, but difficult to learn.
-1. 幸福的三大要素是：有要做的事（something to do）、有要爱的人（someone to love）、有寄予希望的东西（something to hope for）
+1. something to do, someone to love, something to hope for.
 1. 向上管理，创造需求
+1. 不惑，不忧，不惧, 元气淋漓
