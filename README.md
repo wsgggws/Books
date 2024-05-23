@@ -36,7 +36,8 @@ Personal read books and watched movies...
 1. 《真实的汪精卫》 林思云 202404 :+1:
 1. [《梁启超传》](./books/梁启超传.md) 解玺璋 202404 :+1:
 1. [《操作系统导论》](./books/ostep.md) 王海鹏（译） 202404 :+1::+1:
-1. [《三侠五义》]() 石玉昆 202405 Reading
+1. [《三侠五义》](./books/三侠五义.md) 石玉昆 202405 :+1::+1:
+1. [《操作系统精与设计原理》](./books/ostep.md) 石玉昆 202405 Reading
 
 ## Movies
 
@@ -45,6 +46,10 @@ Personal read books and watched movies...
 1. 《座头市》 北野武 20231125 :+1:
 1. 《血观音》 杨雅喆 20231203 :+1:
 1. 《运转手之恋》 陈以文、张华坤 20231203 :+1:
+1. 《戏杀》
+1. 《东方快车谋杀案》
+1. 《闪电侠》
+1. 《子弹列车 Bullet Train》
 
 ## Listening
 
