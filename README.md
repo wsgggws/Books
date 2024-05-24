@@ -37,7 +37,7 @@ Personal read books and watched movies...
 1. [《梁启超传》](./books/梁启超传.md) 解玺璋 202404 :+1:
 1. [《操作系统导论》](./books/ostep.md) 王海鹏（译） 202404 :+1::+1:
 1. [《三侠五义》](./books/三侠五义.md) 石玉昆 202405 :+1::+1:
-1. [《操作系统精与设计原理》](./books/ostep.md) 石玉昆 202405 Reading
+1. 《操作系统精与设计原理》 202405 Reading
 
 ## Movies
 
