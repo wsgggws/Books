@@ -1,8 +1,4 @@
-# Records
-
-Personal read books
-
-## Books
+# Books
 
 1. 《白发魔女传》 梁羽生 :+1:
 1. 《人间失格》 太宰治 :+1::+1:
@@ -39,11 +35,13 @@ Personal read books
 1. [《三侠五义》](./books/三侠五义.md) 石玉昆 202405 :+1::+1:
 1. 《Linux 鸟哥私房菜》 202406 :+1:
 1. 《Hello Algo》 202407 :+1:
-1. 《堂吉诃德》 202407 Reading
-1. 《擅香刑》 202407 Reading
-1. 《操作系统精与设计原理》 202405 Reading
+1. 《堂吉诃德》 202407 :+1::+1:
+1. 《擅香刑》 202407 :+1:
 1. 《法律的悖论》 202408 Reading
-1. 《蔡志忠经典解密系列》 202408 Reading
+1. [《蔡志忠经典解密系列》](./books/蔡志忠经典解密系列.md) 202408 :+1::+1:
+1. [《Linux 内核教学》](https://linux-kernel-labs-zh.xyz/) 202408 Reading
+1. [《现代 JavaScript 教程》](https://zh.javascript.info/) 202408 Reading
+1. 《晶片战争(台版)》 202408 Reading
 
 ## Movies
 
@@ -86,3 +84,4 @@ Personal read books
 1. 《HTTP 权威指南》 David Gourley...
 1. 《数据密集型应用系统设计》 Martin Kelppmann
 1. 《The science of scaling》
+1. 《操作系统精与设计原理》
