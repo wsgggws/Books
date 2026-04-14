@@ -1,7 +1,6 @@
 # Operator System Three Easy Pieces
 
 - 虚拟化（virtualization）
-
   - 虚拟化CPU
     时间片，中断，进程状态. 如何调度?
   - 虚拟化内存
